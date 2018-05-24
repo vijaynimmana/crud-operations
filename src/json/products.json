@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Shirt",
+      "color": "Light Blue",
+      "type": "Normal"
+    },
+    {
+      "id": 2,
+      "name": "T-shirt",
+      "color": "Red",
+      "type": "Round Neck"
+    },
+    {
+      "id": 3,
+      "name": "Jean",
+      "color": "Brown",
+      "type": "Slim Fit"
+    },
+    {
+      "name": "vsdvsd",
+      "color": "vsdvsdvsd",
+      "type": "vsdvsdvsd",
+      "id": 4
+    }
+  ]
+}
